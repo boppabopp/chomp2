@@ -24,7 +24,7 @@ while running:
             running = False
 
 
-    screen.blit(puffer_fish, (400,300))
+    screen.blit(puffer_fish, (WIDTH/2,HEIGHT/2))
 
     pygame.display.flip()
 
